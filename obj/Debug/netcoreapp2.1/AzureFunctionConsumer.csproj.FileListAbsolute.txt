@@ -1,0 +1,13 @@
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\bin\Debug\netcoreapp2.1\DocumentDB.Spatial.Sql.dll
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\bin\Debug\netcoreapp2.1\AzureFunctionConsumer.deps.json
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\bin\Debug\netcoreapp2.1\AzureFunctionConsumer.runtimeconfig.json
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\bin\Debug\netcoreapp2.1\AzureFunctionConsumer.runtimeconfig.dev.json
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\bin\Debug\netcoreapp2.1\AzureFunctionConsumer.dll
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\bin\Debug\netcoreapp2.1\AzureFunctionConsumer.pdb
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\obj\Debug\netcoreapp2.1\AzureFunctionConsumer.csprojAssemblyReference.cache
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\obj\Debug\netcoreapp2.1\AzureFunctionConsumer.csproj.CoreCompileInputs.cache
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\obj\Debug\netcoreapp2.1\AzureFunctionConsumer.AssemblyInfoInputs.cache
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\obj\Debug\netcoreapp2.1\AzureFunctionConsumer.AssemblyInfo.cs
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\obj\Debug\netcoreapp2.1\AzureFunctionConsumer.dll
+C:\Data\Src\Function\AzureFunctionConsumer\AzureFunctionConsumer\obj\Debug\netcoreapp2.1\AzureFunctionConsumer.pdb
